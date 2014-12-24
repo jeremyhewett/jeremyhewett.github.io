@@ -1,16 +1,14 @@
-.background {
-    height: 1000px;
+
+body {
     background-image: url("../images/vegas-view.jpg");
-    background-position: 0 0;
+}
+.container {
+    height: 1000px;
+    background-color: rgba(32, 32, 32, 0.7);
 }
 
-.navbar {
-    height: 220px;
-    opacity: 0.8;
-}
-
-.navbar-header {
-    height: 100%;
+.vegas-logo {
+    margin-top: 15px;
 }
 
 .navbar-right {
@@ -19,6 +17,10 @@
 
 .navbar-right li {
     margin-right: 50px;
+}
+
+.content {
+    margin-top: 200px;
 }
 
 .flip-clock-label {
