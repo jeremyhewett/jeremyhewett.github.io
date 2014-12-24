@@ -1,0 +1,20 @@
+.background {
+    height: 1000px;
+    background-image: url("../images/vegas-view.jpg");
+}
+
+.navbar {
+    height: 220px;
+}
+
+.navbar-header {
+    height: 100%;
+}
+
+.navbar-right {
+    margin-top: 80px;
+}
+
+.navbar-right li {
+    margin-right: 50px;
+}
