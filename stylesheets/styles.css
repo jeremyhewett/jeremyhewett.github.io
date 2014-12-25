@@ -15,12 +15,18 @@ body {
     margin-top: 80px;
 }
 
+.navbar-right a:hover, .navbar-right a:focus {
+    background-color: #337ab7 !important;
+    outline: none !important;
+    border-color: #2e6da4 !important;
+}
+
 .navbar-right li {
     margin-right: 50px;
 }
 
 .content {
-    margin-top: 200px;
+    margin-top: 130px;
 }
 
 .flip-clock-label {
